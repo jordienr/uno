@@ -5,3 +5,4 @@
   2b. Puedes hacer doble o nada (si levantas un bloqueo te salvas, o te comes x2 de cartas que ibas a robar)
 3. Si se tira 4 veces el mismo número, la persona que tira la cuarta carta bebe.
 4. NO se puede decir la palabra "UNO" excepto si te queda una carta, o a alguien le queda una carta y no ha dicho "UNO" (en ese caso puedes decir la frase "no has dicho UNO"). El que diga UNO fuera de estas condiciones tiene que coger carta.
+5. Si alguien saca la carta 5 nadie puede hablar hasta que salga otra carta. Quien hable se come una carta. 
